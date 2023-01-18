@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oliv3rs
+- 👋 Hi, I’m **@Oliv3rs**
 - 👀 I’m interested in Alexa Skills, NodeJS, ReactJS, PHP - CodeIgniter and VTEX IO
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on the best team
